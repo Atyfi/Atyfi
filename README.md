@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atyfi&label=Profile%20views&color=0e75b6&style=flat" alt="atyfi" /> </p>
 
-- 🔭 I’m currently working on **my website**
+- 💻 I’m currently working on **my website**
 
 - 🌱 I’m currently learning **React,RestApi and ...**
 
